@@ -4,5 +4,6 @@ class A{
 		System.out.println("Hello World");
 		System.out.println("DB part done");
 		System.out.println("new experiment begin");
+		System.out.println("exp succed");
 	}
 }
